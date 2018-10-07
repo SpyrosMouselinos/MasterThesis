@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "final_simulation_func_synth.vhd"
+vhdl xil_defaultlib  "../../../../final_project.srcs/sim_1/new/final_simulation.vhd"
+
+# Do not sort compile order
+nosort

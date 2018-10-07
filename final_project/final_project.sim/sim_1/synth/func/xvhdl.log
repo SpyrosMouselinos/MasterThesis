@@ -1,0 +1,15 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.sim/sim_1/synth/func/final_simulation_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity convElement
+INFO: [VRFC 10-307] analyzing entity sumElement
+INFO: [VRFC 10-307] analyzing entity taps
+INFO: [VRFC 10-307] analyzing entity taps_0
+INFO: [VRFC 10-307] analyzing entity \taps__parameterized2\
+INFO: [VRFC 10-307] analyzing entity neighExtractor
+INFO: [VRFC 10-307] analyzing entity firstLayer
+INFO: [VRFC 10-307] analyzing entity multi_conv_comb
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sim_1/new/final_simulation.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-149] 'bitwidths' is not compiled in library xil_defaultlib [D:/Test/final_project/final_project.srcs/sim_1/new/final_simulation.vhd:8]
+ERROR: [VRFC 10-149] 'cnn_types' is not compiled in library xil_defaultlib [D:/Test/final_project/final_project.srcs/sim_1/new/final_simulation.vhd:9]
+INFO: [VRFC 10-307] analyzing entity final_simulation
+ERROR: [VRFC 10-1504] unit final_simulation ignored due to previous errors [D:/Test/final_project/final_project.srcs/sim_1/new/final_simulation.vhd:11]
+INFO: [VRFC 10-240] VHDL file D:/Test/final_project/final_project.srcs/sim_1/new/final_simulation.vhd ignored due to errors

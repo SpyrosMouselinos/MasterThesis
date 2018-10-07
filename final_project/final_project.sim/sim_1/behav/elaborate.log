@@ -1,0 +1,35 @@
+Vivado Simulator 2017.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2017.2/bin/unwrapped/win64.o/xelab.exe -wto 3f9c2d91af6d4a5c88d2f95726597a56 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot final_simulation_behav xil_defaultlib.final_simulation -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_signed
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_textio
+Compiling package xil_defaultlib.bitwidths
+Compiling package xil_defaultlib.cnn_types
+Compiling package unisim.vcomponents
+Compiling package unimacro.vcomponents
+Compiling architecture bhv of entity xil_defaultlib.convElement [\convElement(pixel_size=8,kernel...]
+Compiling architecture bhv of entity xil_defaultlib.convElement [\convElement(pixel_size=8,kernel...]
+Compiling architecture bhv of entity xil_defaultlib.sumElement [\sumElement(pixel_size=8,nb_in_f...]
+Compiling architecture bhv of entity xil_defaultlib.taps [\taps(pixel_size=8,taps_width=27...]
+Compiling architecture bhv of entity xil_defaultlib.taps [\taps(pixel_size=8,taps_width=3,...]
+Compiling architecture rtl of entity xil_defaultlib.neighExtractor [\neighExtractor(pixel_size=8,ima...]
+Compiling architecture structural of entity xil_defaultlib.firstLayer [\firstLayer(pixel_size=8,image_w...]
+Compiling architecture rtl of entity xil_defaultlib.poolV [\poolV(pixel_size=8,image_width=...]
+Compiling architecture rtl of entity xil_defaultlib.poolH [\poolH(pixel_size=8,image_width=...]
+Compiling architecture rtl of entity xil_defaultlib.maxPool [\maxPool(pixel_size=8,image_widt...]
+Compiling architecture structural of entity xil_defaultlib.poolLayer [\poolLayer(pixel_size=8,image_wi...]
+Compiling architecture behavioral of entity xil_defaultlib.dsp_layer [\dsp_layer(my_matrix=((233,230,1...]
+Compiling architecture structural of entity xil_defaultlib.multi_conv_comb [multi_conv_comb_default]
+Compiling architecture behavioral of entity xil_defaultlib.final_simulation
+Built simulation snapshot final_simulation_behav

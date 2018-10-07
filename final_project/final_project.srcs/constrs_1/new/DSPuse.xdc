@@ -1,0 +1,1 @@
+use dsp48 yes

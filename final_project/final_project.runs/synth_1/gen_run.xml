@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7z045ffg900-2" LaunchTime="1538325816">
+  <File Type="RDS-PROPCONSTRS" Name="multi_conv_comb_drc_synth.rpt"/>
+  <File Type="PA-TCL" Name="multi_conv_comb.tcl"/>
+  <File Type="RDS-RDS" Name="multi_conv_comb.vds"/>
+  <File Type="RDS-UTIL" Name="multi_conv_comb_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="multi_conv_comb_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="multi_conv_comb.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="multi_conv_comb_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="multi_conv_comb_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/hdl_generated/bitwidths.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="C:/Users/Spyros/Desktop/MasterThesis/example/hdl_generated/bitwidths.vhd"/>
+        <Attr Name="ImportTime" Val="1524043910"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/cnn_types.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/cnn_types.vhd"/>
+        <Attr Name="ImportTime" Val="1528396051"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/convElement.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/convElement.vhd"/>
+        <Attr Name="ImportTime" Val="1526822828"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/firstLayer.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/firstLayer.vhd"/>
+        <Attr Name="ImportTime" Val="1526302043"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/neighExtractor.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/neighExtractor.vhd"/>
+        <Attr Name="ImportTime" Val="1526230333"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/sumElement.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/sumElement.vhd"/>
+        <Attr Name="ImportTime" Val="1526229467"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/taps.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/taps.vhd"/>
+        <Attr Name="ImportTime" Val="1524059314"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/new/multi_conv_comb.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/new/multi_conv_comb.vhd"/>
+        <Attr Name="ImportTime" Val="1528451613"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/convLayer.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/convLayer.vhd"/>
+        <Attr Name="ImportTime" Val="1525027751"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/inter_layer_union.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/inter_layer_union.vhd"/>
+        <Attr Name="ImportTime" Val="1525022623"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/maxPool.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/maxPool.vhd"/>
+        <Attr Name="ImportTime" Val="1525806032"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolH.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolH.vhd"/>
+        <Attr Name="ImportTime" Val="1525805878"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolLayer.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolLayer.vhd"/>
+        <Attr Name="ImportTime" Val="1525806110"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolV.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolV.vhd"/>
+        <Attr Name="ImportTime" Val="1525805855"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Test/dsp_layer/dsp_layer.srcs/sources_1/new/dsp_layer.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../dsp_layer/dsp_layer.srcs/sources_1/new/dsp_layer.vhd"/>
+        <Attr Name="ImportTime" Val="1530123039"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="multi_conv_comb"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2017"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

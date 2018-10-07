@@ -1,0 +1,30 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/hdl_generated/bitwidths.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/cnn_types.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/convElement.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity convElement
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/firstLayer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity firstLayer
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/neighExtractor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity neighExtractor
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/sumElement.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sumElement
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/taps.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity taps
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/new/multi_conv_comb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity multi_conv_comb
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/convLayer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity convLayer
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/inter_layer_union.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity inter_layer_union
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/maxPool.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity maxPool
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolH.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity poolH
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolLayer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity poolLayer
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolV.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity poolV
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sources_1/imports/Test/dsp_layer/dsp_layer.srcs/sources_1/new/dsp_layer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity dsp_layer
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Test/final_project/final_project.srcs/sim_1/new/final_simulation.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity final_simulation

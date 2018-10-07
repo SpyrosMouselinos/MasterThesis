@@ -1,0 +1,20 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/hdl_generated/bitwidths.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/cnn_types.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/convElement.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/firstLayer.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/neighExtractor.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/sumElement.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/taps.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/new/multi_conv_comb.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/convLayer.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/inter_layer_union.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/maxPool.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolH.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolLayer.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/multi_conv_comb/multi_conv_comb.srcs/sources_1/imports/MasterThesis/Components/poolV.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sources_1/imports/Test/dsp_layer/dsp_layer.srcs/sources_1/new/dsp_layer.vhd"
+vhdl xil_defaultlib  "../../../final_project.srcs/sim_1/new/final_simulation.vhd"
+
+# Do not sort compile order
+nosort
